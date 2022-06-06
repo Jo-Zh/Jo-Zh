@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Jo
-- 👀 I enjoy coding, learning new things and a cup of coffee everyday
+- 👀 I enjoy coding, problems solving, learning new things and a cup of coffee everyday
 - 🌱 I’m currently learning full stack development by the Australian Institute Of ICT and working on my own websites and apps.
-- 💞️ I’m looking to collaborate on web development projects, react app projects and open source projects. 
+- 💞️ I’m interested in full stack web/app development projects. 
 - 📫 You can reach me at 
 
 <!---
