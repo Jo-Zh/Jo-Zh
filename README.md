@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Jo
-- 👀 I enjoy coding, problems solving, learning new things and a cup of coffee everyday
-- 🌱 I’m currently working on a research project using python, django...
-- 💞️ I’m interested in full stack web/app development projects. 
-- 📫 You can reach me at 
+- 👋 Hi, I’m Jo, an experienced full-stack developer.
+- 👀 I enjoy coding, solving problems, learning new things, and having a cup of coffee every day.
+- 🌱 Currently, I’m working on Crucible, an educational resource management platform.
+- 💞️ I’m passionate about TDD, process automation, and CI/CD.
+- 📫 Feel free to reach me at ...
 
 <!---
 Jo-Zh/Jo-Zh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
