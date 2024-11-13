@@ -2,7 +2,7 @@
 - 👀 I enjoy coding, solving problems, learning new things, and having a cup of coffee every day.
 - 🌱 Currently, I’m working on Crucible, an educational resource management platform.
 - 💞️ I’m passionate about TDD, process automation, and CI/CD.
-- 📫 Feel free to reach me at ...
+- 📫 Feel free to reach me at Github or visit my blog <a href="https://lba-001.herokuapp.com">Learning Blog</a>
 
 <!---
 Jo-Zh/Jo-Zh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
